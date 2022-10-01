@@ -1,0 +1,6 @@
+#Fri, 30 Sep 2022 09:08:48 -0300
+
+info.app.version=0.1
+info.app.name=workflow
+grails.env=development
+info.app.grailsVersion=5.1.7
